@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/spider_ithome.iml
+.idea/workspace.xml
+venv/ 
